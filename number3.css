@@ -1,0 +1,27 @@
+.outMassege {
+    position: absolute;
+    margin-top: 20px;
+    min-height: 400px;
+    width: 500px;
+    border: 3px;
+    background-color: aqua;
+    border-color: black;
+    border-radius: 5px;
+}
+.btn {
+    background-color: blue;
+    border-radius: 5px;
+}
+.message{
+    width: 200px;
+    background-color: rgb(223, 158, 111);
+    border-color: black;
+    border-radius: 5px;
+}
+.my{
+    position: relative;
+    left: 300px;
+}
+.our{
+
+}
